@@ -19,12 +19,12 @@ header {
 header h2 {
     padding: 2rem;
     font-size: 2.5rem;
-    color: rgb(53, 53, 95);
     text-decoration: none;
 }
 
 #logo {
     text-decoration: none;
+    color: rgb(53, 53, 95);
 }
 
 .search-form {
